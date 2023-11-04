@@ -1,6 +1,6 @@
 import { selector } from 'recoil';
 
-const productsURL = '/products.json';
+const productsURL = '/2023PJ-reactshop/products.json';
 // const productsURL = 'https://fakestoreapi.com/products';
 
 interface Rating {

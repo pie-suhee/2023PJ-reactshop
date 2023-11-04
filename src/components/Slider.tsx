@@ -42,7 +42,7 @@ const Slider = () => {
                 </svg>
               </Link>
             </div>
-            <img src={`/img_shop_${item.name}.jpeg`} alt={item.name} />
+            <img src={`/2023PJ-reactshop/img_shop_${item.name}.jpeg`} alt={item.name} />
           </div>
         );
       })}
